@@ -1,7 +1,7 @@
-Olá, me chamo Paulo Henrique, 
-Sou um desenvolvedor em constante aprendizado,
-Sempre tentando aprender novas Tecnológias,
-Atualmente estou focado em aprender Python.
+- Olá, me chamo Paulo Henrique, 
+- Sou um desenvolvedor em constante aprendizado,
+- Sempre tentando aprender novas Tecnológias,
+- Atualmente estou focado em aprender Python.
 
 <div>
   <a href="https://github.com/rique29">
