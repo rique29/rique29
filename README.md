@@ -1,7 +1,7 @@
-Oiii! Sou Paulo Henrique
+Oi meu nome é Paulo Henrique
 
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- 🌱 Atualmente eu estou estudaando Python
+- 
 
 <div>
   <a href="https://github.com/rique29">
