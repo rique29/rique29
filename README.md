@@ -18,4 +18,5 @@ Oiii! Sou Paulo Henrique
   <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Paulo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Paulo-Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
 </div>
